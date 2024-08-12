@@ -1,2 +1,24 @@
-# Data_Science-Data_Visualization_criando_graficos_com_bibliotecas_Python
-Curso de Data Visualization: criando gráficos com bibliotecas Python
+# [Formação Data Science](https://cursos.alura.com.br/formacao-data-science)
+
+<div style="text-align: justify;">
+
+Nesta formação eu aprededi técnicas de análise de dados, estatística, modelagem e visualização na prática, escalando meu crescimento e trazendo novas oportunidades.
+
+Na Formação Data Science da Alura, eu conheci o Python, a linguagem mais popular em Data Science, além de utilizar diversas bibliotecas e ferramentas paralelas. Aprendi sobre coleta, preparação e exploração de dados.
+
+Compreendi como visualizar dados e comunicar resultados através de gráficos. Assim, consegui justificar as análises feitas e mostrar para a empresa o quão importante é o papel dos dados para otimizar processos em várias áreas.
+
+Se eu quisesse trabalhar com Data Science, esta formação me prepararia para entrar no mercado e dar meus primeiros passos na profissão.
+
+</div>
+
+## [Curso de Data Visualization: criando gráficos com bibliotecas Python](https://cursos.alura.com.br/course/data-visualization-graficos-bibliotecas-python)
+
+### Principais tópicos do curso
+
+- Criando gráficos com a biblioteca Matplotlib
+- Entendendo o funcionamento de figuras e eixos da biblioteca Matplotlib
+- Utilizansdo a biblioteca Seaborn para criação de gráficos
+- Criando gráficos interativos com a biblioteca Plotly
+- Customizando suas visualizações com diferentes cores, estilos, anotações, etc.
+- Boas práticas para elaborar gráficos

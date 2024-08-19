@@ -8,8 +8,6 @@ Na Formação Data Science da Alura, eu conheci o Python, a linguagem mais popul
 
 Compreendi como visualizar dados e comunicar resultados através de gráficos. Assim, consegui justificar as análises feitas e mostrar para a empresa o quão importante é o papel dos dados para otimizar processos em várias áreas.
 
-Se eu quisesse trabalhar com Data Science, esta formação me prepararia para entrar no mercado e dar meus primeiros passos na profissão.
-
 </div>
 
 ## [Curso de Data Visualization: criando gráficos com bibliotecas Python](https://cursos.alura.com.br/course/data-visualization-graficos-bibliotecas-python)
